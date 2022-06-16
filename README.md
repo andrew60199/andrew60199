@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @andrew60199
+- 👋 Hi, I’m @AND.EVV
 - 👀 I’m interested in design
-- 🌱 I’m currently learning Python & furthering my design knowledge
+- 🌱 I’m currently enrolled in a coding bootcamp
 - 💞️ I’m looking to collaborate on an app design
 - 📫 How to reach me via email 
 
