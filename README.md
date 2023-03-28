@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AND.EVV
 - 👀 I’m interested in design and business
-- 🌱 I’m currently enrolled in a coding bootcamp
+- 🌱 I’m currently offering my design and development services through **REMM**DESIGNS
 - 💞️ I’m looking to collaborate and build some software
 - 📫 Reach me via email 
 
