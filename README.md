@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AND.EVV
 - 👀 I’m interested in design and business
-- 🌱 I’m currently offering my design and development services through **REMM**DESIGNS
+- 🌱 I’m currently offering my designing and developing my own app ideas
 - 💞️ I’m looking to collaborate and build some software
 - 📫 Reach me via email 
 
